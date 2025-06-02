@@ -1,0 +1,92 @@
+{
+    "P0001": {
+        "Name": "Alice Johnson",
+        "city": "Mumbai",
+        "age": 25,
+        "gender": "Female",
+        "height": 1.62,
+        "weight": 54,
+        "BMI": 20.57,
+        "verdict": "Normal"
+    },
+    "P0002": {
+        "Name": "Rahul Mehra",
+        "city": "Delhi",
+        "age": 32,
+        "gender": "Male",
+        "height": 1.75,
+        "weight": 85,
+        "BMI": 27.76,
+        "verdict": "Overweight"
+    },
+    "P0003": {
+        "Name": "Fatima Sheikh",
+        "city": "Hyderabad",
+        "age": 28,
+        "gender": "Female",
+        "height": 1.58,
+        "weight": 49,
+        "BMI": 19.63,
+        "verdict": "Normal"
+    },
+    "P0004": {
+        "Name": "Amit Patel",
+        "city": "Ahmedabad",
+        "age": 40,
+        "gender": "Male",
+        "height": 1.70,
+        "weight": 95,
+        "BMI": 32.87,
+        "verdict": "Obese"
+    },
+    "P0005": {
+        "Name": "Sneha Reddy",
+        "city": "Chennai",
+        "age": 22,
+        "gender": "Female",
+        "height": 1.65,
+        "weight": 48,
+        "BMI": 17.63,
+        "verdict": "Underweight"
+    },
+    "P0006": {
+        "Name": "Karan Singh",
+        "city": "Bangalore",
+        "age": 29,
+        "gender": "Male",
+        "height": 1.80,
+        "weight": 77,
+        "BMI": 23.77,
+        "verdict": "Normal"
+    },
+    "P0007": {
+        "Name": "Meera Das",
+        "city": "Kolkata",
+        "age": 35,
+        "gender": "Female",
+        "height": 1.55,
+        "weight": 68,
+        "BMI": 28.30,
+        "verdict": "Overweight"
+    },
+    "P0008": {
+        "Name": "Ravi Shankar",
+        "city": "Pune",
+        "age": 45,
+        "gender": "Male",
+        "height": 1.68,
+        "weight": 102,
+        "BMI": 36.14,
+        "verdict": "Obese"
+    },
+    "P0009": {
+        "Name": "Divya Kapoor",
+        "city": "Jaipur",
+        "age": 26,
+        "gender": "Female",
+        "height": 1.60,
+        "weight": 50,
+        "BMI": 19.53,
+        "verdict": "Normal"
+    }
+}
